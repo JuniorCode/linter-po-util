@@ -1,7 +1,7 @@
 {
   "name": "linter-po",
   "main": "./lib/main",
-  "version": "1.2.0",
+  "version": "0.0.0",
   "description": "Lint Particle projects using po-util",
   "keywords": [
     "lint",
@@ -14,7 +14,7 @@
   ],
   "repository": {
     "type": "git",
-    "url": "https://github.com/nrobinson2000/linter-po"
+    "url": "https://github.com/nrobinson2000/linter-po-util"
   },
   "license": "MIT",
   "engines": {
