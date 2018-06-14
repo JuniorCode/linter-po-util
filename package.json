@@ -1,7 +1,7 @@
 {
   "name": "linter-po",
   "main": "./lib/main",
-  "version": "0.0.1",
+  "version": "0.1.0",
   "description": "Lint Particle projects using po-util",
   "keywords": [
     "lint",
