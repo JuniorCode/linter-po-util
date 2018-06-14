@@ -1,5 +1,5 @@
 {
-  "name": "linter-po",
+  "name": "linter-po-util",
   "main": "./lib/main",
   "version": "0.0.0",
   "description": "Lint Particle projects using po-util",
